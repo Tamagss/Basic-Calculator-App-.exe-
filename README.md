@@ -1,4 +1,2 @@
-# Testing-Repository-exe-FILES
-Test lang haha
-
-**Experimental Lang**
+Basic Calculator App
+.exe file
