@@ -1,2 +1,2 @@
-##Basic Calculator App
-.exe file##
+Basic Calculator App
+.exe file
